@@ -511,6 +511,15 @@
             "value": "Rosberg did not respond to a request for comment."
           },
           {
+            "type": "image",
+            "value": {
+              "width": "",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/F6YSXKBV4NAG3K5KRAX66SUX3A.jpg",
+              "caption": "",
+              "credit": "courtesy of Michelle Ueltshi"
+            }
+          },
+          {
             "type": "text",
             "value": "As Columbia <a href=\"https://www.columbiaspectator.com/news/2023/10/04/shafik-inaugurated-as-20th-university-president-in-ceremony-that-draws-hundreds-of-protestors/\">celebrated</a> the inauguration of Minouche Shafik on October 4, members of Sunrise held a painted sign that read in bold letters, “Shafik: in. Fossil fuels: out.”"
           }
